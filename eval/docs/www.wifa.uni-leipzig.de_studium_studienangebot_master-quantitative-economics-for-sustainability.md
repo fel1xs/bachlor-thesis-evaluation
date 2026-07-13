@@ -1,0 +1,437 @@
+---
+url: "https://www.wifa.uni-leipzig.de/studium/studienangebot/master-quantitative-economics-for-sustainability"
+title: "Universität Leipzig: MSc Quantitative Economics for Sustainability (QuESt) | Universität Leipzig"
+---
+
+Wie kann die Wirtschaft so gestaltet werden, dass natürliche Lebensgrundlagen erhalten bleiben und ökologische Nachhaltigkeit mit sozialer Gerechtigkeit verbunden wird? Diesen Fragen stellt sich der M. Sc. Quantitative Economics for Sustainability (QuESt) an der Universität Leipzig. Er richtet sich an alle, die die nachhaltige Transformation der Wirtschaft mit ökonomischer Expertise und quantitativen Methoden konkret analysieren und mitgestalten wollen. Als volkswirtschaftlicher Master mit klarem Fokus auf Klima, Biodiversität und natürlichen Ressourcen verbindet QuESt datenbasierte Analyse mit ökonomischer und integrierter ökonomisch-naturwissenschaftlicher Modellierung. Studierende lernen, Transformationsprozesse zu bewerten, Zielkonflikte sichtbar zu machen und fundierte Entscheidungsgrundlagen für Politik, Verwaltung und Praxis zu entwickeln.
+
+[![zur Vergrößerungsansicht des Bildes: Studierende pausieren im Innenhof des Campus Augustusplatz.](https://www.wifa.uni-leipzig.de/fileadmin/_processed_/5/3/csm_2018_Leibnizforum_OO3A4462_Swen_Reichhold_c3a46846db.jpg)](https://www.wifa.uni-leipzig.de/fileadmin/_processed_/5/3/csm_2018_Leibnizforum_OO3A4462_Swen_Reichhold_06069f9236.jpg) Studierende pausieren im Innenhof des Campus Augustusplatz der Universität Leipzig. (Foto: Swen Reichhold)
+
+|     |     |
+| --- | --- |
+| Studientyp <br>**weiterführend** | Abschluss <br>**Master of Science** |
+| Lehrsprache <br>**Englisch** | Studienform <br>**Vollzeit, Teilzeit** |
+| Studienbeginn <br>**Wintersemester** | Zulassungsbeschränkung <br>**örtlich zulassungsbeschränkt** |
+| Regelstudienzeit <br>**4 Semester** | Leistungspunkte <br>**120** |
+
+## Studieren in Leipzig
+
+### [Leipzig als Studienort](https://www.wifa.uni-leipzig.de/studium/studienangebot/master-quantitative-economics-for-sustainability\#collapse991621)
+
+Leipzig verbindet die Vorteile einer großen Universitätsstadt mit kurzen Wegen, moderaten Lebenshaltungskosten und hoher Lebensqualität. Große innenstadtnahe Erholungsräume wie der Clara-Zetkin-Park und der Auwald prägen das Stadtbild ebenso wie Kanäle, Wasserwege und das Leipziger Neuseenland. Dazu kommt ein breites Kulturangebot – von Oper und Gewandhaus bis zu Festivals, Museen sowie einer ausgeprägten Bar- und Clubszene. Gleichzeitig ist Leipzig auch als Studien- und Forschungsstandort gut angebunden: Berlin ist in etwa einer Stunde, Frankfurt am Main in rund drei Stunden mit dem Zug erreichbar. Das erleichtert den Austausch mit Forschungseinrichtungen in der Region und in ganz Deutschland. All diese Faktoren machen Leipzig zu einem attraktiven Wohn- und Studienort, der ein offenes, vielfältiges und gesellschaftlich lebendiges Umfeld bietet.
+
+### [Die Universiät Leipzig und die Wirtschaftswissenschaftliche Fakultät](https://www.wifa.uni-leipzig.de/studium/studienangebot/master-quantitative-economics-for-sustainability\#collapse991623)
+
+Die Wirtschaftswissenschaftliche Fakultät bietet ein dynamisches Umfeld, in dem Lehre, Forschung und Praxis eng miteinander verknüpft sind. Bei uns stehen politikrelevante Fragen sowohl in der Lehre, wie auch in der Forschung im Mittelpunkt – von Makro- und Mikroökonomie über Umweltökonomie und öffentliche Finanzen bis hin zu Geld-, Kredit- und Bankwesen. Studierende lernen modernste empirische Methoden anzuwenden und aktuelle wirtschaftspolitische Debatten kritisch zu durchleuchten. Unser junges, vielfältiges Team legt dabei besonderen Wert auf die Verbindung von Theorie und Empirie – und darauf, Forschung dorthin zu bringen, wo sie wirkt: in die Politik und die gesellschaftliche Diskussion.
+
+Die Strategie 2030 der Universität Leipzig betont Exzellenz, Nachhaltigkeit, Vernetzung und Innovation. Dieses Engagement der Universität und insbesondere der Fakultät zeigt sich unter anderem in neuen Professuren, strategischen Forschungsallianzen und Kooperationen mit Einrichtungen wie dem [Helmholtz-Zentrum für Umweltforschung (UFZ)](https://www.ufz.de/ "Zur Webseite des Helmholtz-Zentrums für Umweltforschung (UFZ) (Link öffnet in neuem Tab)"), dem [Leibniz-Institut für Wirtschaftsforschung Halle (IWH)](https://www.iwh-halle.de/ "Zur Webseite des Leibniz-Instituts für Wirtschaftsforschung Halle (IWH) (Link öffnet in neuem Tab)") und dem [Deutschen Zentrum für integrative Biodiversitätsforschung (iDiv)](https://www.idiv.de/de/ "Zur Webseite des Deutschen Zentrums für integrative Biodiversitätsforschung (iDiv) (Link öffnet in neuem Tab)"). Sichtbar wird dies ebenfalls in der neuen Forschungsprofilierung der Universität mit den Emerging Fields „CREDIT“ und „Second-Best Sustainable Economy“ sowie in der Verankerung in den Exzellenzbereichen „Integrative Biodiversity“ und „Life:Earth:Humans“.
+
+## M. Sc. Quantitative Economics for Sustainability (QuESt)
+
+Der Masterstudiengang Quantitative Economics for Sustainability (QuESt) an der Universität Leipzig ist ein vollwertiger volkswirtschaftlicher Studiengang, der die nachhaltige Wirtschaft in den Mittelpunkt stellt. Mithilfe quantitativer Methoden der Volkswirtschaftslehre und in interdisziplinärer Verbindung mit den Naturwissenschaften geht QuESt der Frage nach, wie die private und öffentliche Wirtschaft so gestaltet werden kann, dass natürliche Lebensgrundlagen erhalten bleiben und ökologische Nachhaltigkeit mit sozialer Gerechtigkeit verbunden wird. Nachhaltigkeit wird dabei zunehmend als quantitativ messbar verstanden, etwa mit Blick auf die 17 Sustainable Development Goals (SDGs) und ihre 169 Unterziele.
+
+Im Zentrum des Studiengangs stehen insbesondere:
+
+- statistische und ökonometrische Methoden zur Verarbeitung und Analyse von Daten aus Beobachtungen und Experimenten
+- ökonomische und integrierte ökonomisch-naturwissenschaftliche Modellierung, um die Folgen unterschiedlicher Handlungsoptionen für Klima, Biodiversität und Ressourcen zu untersuchen
+
+Das Profil des Studiengangs wird durch Module wie Climate Economics, Biodiversity Economics, Environmental Economics und Institutional Economics of Sustainability Transitions geprägt. Zugleich ist QuESt interdisziplinär angelegt und wird durch Wahlmöglichkeiten an der Schnittstelle zu den Klima- und Biodiversitätswissenschaften erweitert.
+
+Studierende mit sehr guten Studienleistungen können einen Teil ihres Studiums an der Keio University in Tokio oder an der Université Paris 1 Panthéon-Sorbonne absolvieren.
+
+[![zur Vergrößerungsansicht des Bildes: Studierende aus dem Master Quantiative Economics for Sustainability nehmen an einem Workshop am Deutschen Zentrum für integrative Biodiversitätsforschung (iDiv) teil..](https://www.wifa.uni-leipzig.de/fileadmin/_processed_/d/d/csm_studierende_quantitative-economics-for-sustainability_8821edacce.jpeg)](https://www.wifa.uni-leipzig.de/fileadmin/Fakult%C3%A4t_Wifa/Fakult%C3%A4t/Studienb%C3%BCro/Bilder/Lehr-_u_Lernsituationen/studierende_quantitative-economics-for-sustainability.jpeg) Workshop am Deutschen Zentrum für integrative Biodiversitätsforschung (iDiv) (Foto: Christian Hüller)
+
+### [Aufbau des Studiums](https://www.wifa.uni-leipzig.de/studium/studienangebot/master-quantitative-economics-for-sustainability\#collapse991630)
+
+Der M. Sc. Quantitative Economics for Sustainability (QuESt) umfasst 120 Leistungspunkte und ist auf vier Semester angelegt. Das Curriculum verbindet eine fundierte Ausbildung in Volkswirtschaftslehre und quantitativen Methoden mit einem klaren Fokus auf Nachhaltigkeitsökonomik, interdisziplinäre Wahlmöglichkeiten und ein mögliches Auslandssemester.
+
+[![zur Vergrößerungsansicht des Bildes: ](https://www.wifa.uni-leipzig.de/fileadmin/_processed_/f/4/csm_Study_Plan_MSC_QuESt_aff0e53a02.png)](https://www.wifa.uni-leipzig.de/fileadmin/_processed_/f/4/csm_Study_Plan_MSC_QuESt_22ea3ce231.png)
+
+## Struktur des Studiengangs
+
+**1\. Semester (30 ECTS)**
+
+- Quantitative Sustainability Economics (10 ECTS)
+- Advanced Microeconomics (10 ECTS)
+- Advanced Econometrics and Statistics (10 ECTS)
+
+**2\. Semester (30 ECTS)**
+
+- Advanced Macroeconomics (10 ECTS)
+- zwei Wahlpflichtmodule (je 10 ECTS)
+
+**3\. Semester (30 ECTS)**
+
+- Wahlbereich oder Auslandssemester (insgesamt 30 ECTS)
+
+**4\. Semester (30 ECTS)**
+
+- Research Methods in Sustainability Economics (10 ECTS)
+- Masterarbeit (20 ECTS)
+
+Insgesamt entfallen 50 ECTS auf Pflichtmodule, 20 ECTS auf Wahlpflichtmodule, 30 ECTS auf den Wahlbereich und 20 ECTS auf die Masterarbeit. Im Wahlbereich können Studierende ihr Studium fachlich vertiefen und durch interdisziplinäre Angebote erweitern. Je nach Interesse stehen dafür Module der Wirtschaftswissenschaftlichen Fakultät sowie anderer Fakultäten der Universität Leipzig zur Verfügung.
+
+**Wahlpflichtbereich**
+
+Im Wahlpflichtbereich sind mindestens 20 ECTS aus den folgenden Modulen zu wählen:
+
+- Climate Economics (10 ECTS)
+- Biodiversity Economics (10 ECTS)
+- Environmental Economics (10 ECTS)
+- Institutional Economics of Sustainability Transitions (10 ECTS)
+
+**Wahlbereich**
+
+Darüber hinaus können im Wahlbereich weitere Module gewählt werden, darunter:
+
+- Ecological-Economic Modelling for the Sustainable Use and Conservation of Biodiversity (10 ECTS)
+- interdisziplinäre Module zu Klima- und/oder Biodiversitätswandel
+- Wahlmodule aus dem M. Sc. Economics
+- Module aus den Bereichen Management Science, Business Information Systems sowie Business Education and Management Training
+- weitere Module anderer Fakultäten der Universität Leipzig
+
+Ergänzend bieten die [Poster](https://www.wifa.uni-leipzig.de/fileadmin/Fakult%C3%A4t_Wifa/Institut_f%C3%BCr_Theoretische_Volkswirtschaftslehre/Professur_Makro%C3%B6konomik/Neue_VWL_Master_Webseiten/Poster_combined_compressed.pdf) zu ausgewählten Modulen Einblicke in Inhalte, Lehrformate und fachliche Schwerpunkte einzelner Lehrveranstaltungen.
+
+### [Berufliche Perspektiven](https://www.wifa.uni-leipzig.de/studium/studienangebot/master-quantitative-economics-for-sustainability\#collapse991632)
+
+Der Masterstudiengang Quantitative Economics for Sustainability (QuESt) vermittelt fundierte analytische und quantitative Fähigkeiten für berufliche Wege im Bereich nachhaltiger Transformation. Studierende lernen, wirtschaftliche, ökologische und gesellschaftliche Zusammenhänge mit ökonomischer Theorie, empirischen Methoden und modellgestützter Analyse zu untersuchen, Transformationsprozesse zu bewerten und belastbare Entscheidungsgrundlagen für eine ökologisch und sozial nachhaltige Wirtschaft zu entwickeln. Im Mittelpunkt steht dabei die Frage, wie sich private und öffentliche Wirtschaft so gestalten lässt, dass natürliche Lebensgrundlagen erhalten und Ziele intra- und intergenerationeller Gerechtigkeit berücksichtigt werden.
+
+Für forschungsorientierte Absolventinnen und Absolventen eröffnet der Studiengang zugleich den Weg in eine wissenschaftliche Laufbahn. Er bietet eine gute Grundlage für eine Promotion, etwa im Bereich Nachhaltigkeitsökonomik und in angrenzenden interdisziplinären Forschungsfeldern wie dem [Graduiertenkolleg Economics of Connected Natural Commons: Atmosphere and Biodiversity (ECO-N)](https://www.uni-leipzig.de/en/economics-of-connected-natural-commons "Zur Webseite von ECO-N (Link öffnet in neuem Tab)"). Darüber hinaus qualifiziert QuESt für Tätigkeiten an Universitäten und in Forschungsinstituten, die zur ökologischen und sozialen Transformation von Wirtschaft und Gesellschaft arbeiten, etwa am [Helmholtz-Zentrum für Umweltforschung (UFZ)](https://www.ufz.de/ "Zur Webseite des UFZ (Link öffnet in neuem Tab)"), am [Deutschen Zentrum für integrative Biodiversitätsforschung (iDiv)](https://www.idiv.de/de/ "Zur Webseite des iDiv (Link öffnet in neuem Tab)") oder dem [Potsdam-Institut für Klimafolgenforschung (PIK)](https://www.pik-potsdam.de/de "Zur Webseite des PIK (Link öffnet in neuem Tab)").
+
+Auch außerhalb der Wissenschaft stehen Absolventinnen und Absolventen vielfältige Karrierewege offen, etwa in Ministerien, Umweltbehörden wie dem [Umweltbundesamt (UBA)](https://www.umweltbundesamt.de/ "Zur Webseite des UBA (Link öffnet in neuem Tab)") oder dem [Bundesamt für Naturschutz (BfN)](https://www.bfn.de/ "Zur Webseite des BfN (Link öffnet in neuem Tab)"), internationalen Organisationen, Nichtregierungsorganisationen (NGOs) sowie in Nachhaltigkeitsabteilungen von Unternehmen und in daten- oder risikoorientierten Tätigkeitsfeldern bei Finanzinstitutionen. Damit eröffnet der Studiengang berufliche Perspektiven in Bereichen wie Klima- und Umweltpolitik, Biodiversitätsschutz, Nachhaltigkeitsmanagement, Transformationsforschung und evidenzbasierter öffentlicher Entscheidungsfindung.
+
+### [Zugangsvoraussetzungen](https://www.wifa.uni-leipzig.de/studium/studienangebot/master-quantitative-economics-for-sustainability\#collapse991634)
+
+Studierende des M. Sc. Quantitative Economics for Sustainability (QuESt) sollten ein hohes Interesse an aktuellen Fragen der Nachhaltigkeitstransformation von Wirtschaft und Gesellschaft, an sozialer Gerechtigkeit sowie am wissenschaftlichem Arbeiten mit quantitativen Methoden mitbringen. Erwartet werden solide Grundkenntnisse in Mathematik, Mikro- und Makroökonomik, Ökonometrie und Statistik sowie die Bereitschaft, sich intensiv mit statistischen und ökonometrischen Verfahren zur Auswertung von Beobachtungs- und Experimentaldaten auseinanderzusetzen. Ebenso wichtig ist die Offenheit, mit ökonomischen und integrierten ökonomisch-naturwissenschaftlichen Modellen zu arbeiten, um die Folgen unterschiedlicher Handlungsoptionen für Klima, Biodiversität und Ressourcen zu analysieren. Wichtig sind außerdem gute Abstraktions- und Analysefähigkeiten, logisches Denkvermögen sowie ein sicheres mündliches und schriftliches Ausdrucksvermögen.
+
+**Zugangsvoraussetzungen**
+
+Für die Bewerbung zum M. Sc. QuESt benötigen Sie:
+
+- Englischkenntnisse auf dem Niveau B2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen
+- ein Zeugnis über einen ersten berufsqualifizierenden Hochschulabschluss mit wirtschaftswissenschaftlichem Bezug einschließlich Transcript of Records und Diploma Supplement beziehungsweise, sofern der Abschluss bis zum Beginn des Masterstudiums erreicht werden kann, einen Nachweis über die bisher erbrachten Studienleistungen
+
+**Auswahlkriterien**
+
+Bei der Auswahl werden insbesondere berücksichtigt:
+
+- die bisherige Studienleistung (zum Beispiel Durchschnittsnote)
+- die fachliche Vorbildung und die Passung zum Studiengang
+
+**Sprachliche Voraussetzungen**
+
+Die Unterrichtssprache ist Englisch. Das Studium kann vollständig auf Englisch absolviert werden. Alle Pflicht- und Wahlpflichtmodule werden auf Englisch angeboten. Der überwiegende Teil der Wahlmodule findet ebenfalls auf Englisch statt, einige wenige Wahlmodule werden auf Deutsch angeboten.
+
+Englischkenntnisse auf B2-Niveau können zum Beispiel durch ein deutsches Abiturzeugnis mit Englischunterricht von Klasse 7 bis 12 (bzw. 13) nachgewiesen werden. Anerkannt werden außerdem gängige standardisierte Sprachtests wie TOEFL iBT, FCE, IELTS, TOEIC, Linguaskill und UNIcert.
+
+Die Fakultät prüft, ob die fachlichen und sprachlichen Voraussetzungen erfüllt sind. Die Auswahlkommission stellt anschließend einen entsprechenden Bescheid aus.
+
+### [Bewerbung](https://www.wifa.uni-leipzig.de/studium/studienangebot/master-quantitative-economics-for-sustainability\#collapse991636)
+
+### Bewerbung für Erstsemester
+
+Für einenStudienbeginn im Wintersemester läuft der Bewerbungszeitraum für Bewerbende mit einem deutschen Hochschulabschluss in der Regel von Anfang Mai bis zum 31. Maiunderfolgt über [AlmaWeb.](https://almaweb.uni-leipzig.de/)
+
+Für Bewerbende mit eineminternationalen Hochschulabschluss läuft der Bewerbungszeitraum in der Regel von Anfang April bis zum 31. Mai und erfolgt über das [Portal Uni-Assist.](https://www.uni-assist.de/en/)
+
+Internationale Bewerbende finden weiterführende Informationen [hier.](https://www.uni-leipzig.de/international/studieren-an-der-universitaet-leipzig/bewerbung-und-studienvorbereitung/masterstudium)
+
+Online einzureichen sind folgende Unterlagen:
+
+- Nachweis über Englischkenntnisse auf dem Niveau B2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen
+- ein Zeugnis über einen ersten berufsqualifizierenden Hochschulabschluss mit wirtschaftswissenschaftlichem Bezug einschließlich Transcript of Records und Diploma Supplement beziehungsweise, sofern der Abschluss bis zum Beginn des Masterstudiums erreicht werden kann, einen Nachweis über die bisher erbrachten Studienleistungen
+- ein Motivationsschreiben
+- sowie gegebenenfalls Nachweise über studiengangs-bezogene Berufsausbildungen, freiwillige Praktika oder ähnliche Aktivitäten
+
+### Bewerbung für höhere Fachsemester
+
+Eine Bewerbung ist zum Wintersemester für das 3. Fachsemester sowie zum Sommersemester für das 2. und 4. Fachsemester möglich. Die Bewerbung ist jeweils zulassungsbeschränkt und erfolgt über [AlmaWeb](https://almaweb.uni-leipzig.de/).
+
+Die Bewerbungsfristen sind vom 2. Mai bis 15. Juli für das Wintersemester und vom 1. Dezember bis 15. Januar für das Sommersemester. Voraussetzung für die Immatrikulation ist ein [Einstufungsformular](https://www.uni-leipzig.de/fileadmin/ul/Dokumente/240201_StudSek_Einstufungsformular_barrierefrei.pdf).
+
+Weiterführende Informationen finden Sie [hier.](https://www.uni-leipzig.de/studium/vor-dem-studium/bewerbung/bewerbung-fuer-hoehere-fachsemester)
+
+## FAQ: Häufig gestellte Fragen und Antworten
+
+### [Fragen rund um die Bewerbung](https://www.wifa.uni-leipzig.de/studium/studienangebot/master-quantitative-economics-for-sustainability\#collapse991653)
+
+## Wie sehen die Zugangsbedingungen für den Masterstudiengang QuESt aus?
+
+Die allgemeine Qualifikation für das Studium wird durch einen berufsqualifizierenden Hochschulabschluss nachgewiesen. Die zusätzlich geltenden fachspezifischen Zugangsvoraussetzungen sind:
+
+- ein abgeschlossener Bachelorstudiengang mit betriebs- sowie volkswirtschaftlichen Inhalten
+- Die Bewerber und Bewerberinnen müssen die englische Sprache in Wort und Schrift gemäß dem Niveau B2 beherrschen. Deutschkenntnisse sind nicht erforderlich.
+
+## Gibt es eine Eignungsprüfung?
+
+Nein. Es gibt keine gesonderte Eignungsprüfung und keine Auswahlgespräche. Alle Bewerberinnen und Bewerber nehmen an einem Auswahlverfahren teil.
+
+## Welche Unterlagen muss ich für das Auswahlverfahren einreichen?
+
+Mit dem Antrag auf Teilnahme am Auswahlverfahren sind die erforderlichen Unterlagen fristgerecht einzureichen. Dazu gehören:
+
+- ein Zeugnis der Hochschulzugangsberechtigung,
+- ein Zeugnis über einen ersten berufsqualifizierenden Hochschulabschluss einschließlich Transcript of Records und Diploma Supplement beziehungsweise ein Nachweis über die bisher erbrachten Studienleistungen, wenn der Abschluss bis zum Beginn des Masterstudiums erreicht werden kann,
+- gegebenenfalls Nachweise über studiengangsbezogene Berufsausbildungen, freiwillige Praktika oder ähnliche Aktivitäten,
+- ein Motivationsschreiben.
+
+## Wie erfolgt die Auswahl?
+
+Die Zulassung erfolgt auf Grundlage eines Auswahlverfahrens. Dabei werden fünf Kriterien bewertet, die jeweils mit 0 bis 30 Punkten in die Gesamtwertung eingehen. Insgesamt können somit maximal 150 Punkte erreicht werden. Im Auswahlverfahren werden folgende Kriterien berücksichtigt:
+
+- die Eignung des nachgewiesenen, berufsqualifizierenden Hochschulabschlusses für die Ausbildungsziele des Masterstudiengangs, nachgewiesen in einem Diploma Supplement,
+- die Note des Hochschulabschlusses,
+- der ECTS-Umfang quantitativ-mathematischer Module der Volkswirtschaftslehre nämlich (1) Mikroökonomik, (2) Makroökonomik, (3) Statistik und Ökonometrie
+- die Noten quantitativ-mathematischer Module der Volkswirtschaftslehre, nämlich (1) Mikroökonomik, (2) Makroökonomik, (3) Statistik und Ökonometrie
+- das Motivationsschreiben.
+
+## Wie werden die Bewerberinnen und Bewerber ausgewählt?
+
+Die Bewerberinnen und Bewerber werden entsprechend ihrer erreichten Gesamtpunktzahl gereiht. Eine höhere Punktzahl führt zu einem besseren Rangplatz. Bei Ranggleichheit entscheidet das Los.
+
+## Ist der Masterstudiengang zulassungsbeschränkt?
+
+Ja, der M. Sc. Quantitative Economics for Sustainability (QuESt) ist zulassungsbeschränkt.
+
+## Welche Sprachkenntnisse werden für den Masterstudiengang vorausgesetzt?
+
+Die Bewerberinnen und Bewerber müssen die englische Sprache in Wort und Schrift gemäß dem Niveau B2 des Gemeinsamen europäischen Referenzrahmens für Sprachen beherrschen. Englischkenntnisse auf B2-Niveau können zum Beispiel durch ein deutsches Abiturzeugnis mit Englischunterricht von Klasse 7 bis 12 (bzw. 13) nachgewiesen werden. Anerkannt werden außerdem gängige standardisierte Sprachtests wie TOEFL iBT, FCE, IELTS, TOEIC, Linguaskill und UNIcert. Deutschkenntnisse sind keine Zulassungsvoraussetzung und nicht verpflichtend, können für den Alltag und die Orientierung an der Universität Leipzig jedoch hilfreich sein.
+
+## Werden Gebühren für den Masterstudiengang erhoben?
+
+Nein, es fallen keine Studiengebühren an. Es müssen lediglich [Semesterbeiträge](https://www.uni-leipzig.de/studium/im-studium/studienorganisation/rueckmeldung-und-semesterbeitrag) bezahlt werden.
+
+## Ist der Masterstudiengang in englischer Sprache studierbar?
+
+Der M. Sc. Quantitative Economics for Sustainability (QuESt) ist in englischer Sprache studierbar.
+
+## Bis wann kann ich mich bewerben?
+
+Für einen Studienbeginn im Wintersemester läuft der Bewerbungszeitraum für Bewerbende mit einem deutschen Hochschulabschluss in der Regel von Anfang Mai bis zum 31. Mai.
+
+Für Bewerbende mit einem internationalen Hochschulabschluss läuft der Bewerbungszeitraum in der Regel von Anfang April bis zum 31. Mai. Für Bewerbungen in ein höheres Fachsemester gelten gesonderte Fristen und Hinweise. Diese finden Sie [hier.](https://www.uni-leipzig.de/studium/vor-dem-studium/studienangebot/studiengang/course/show/quantitative-economics-for-sustainability-m-sc)
+
+## Wie bewerbe ich mich?
+
+Die Bewerbung erfolgt online.
+
+## Wo ist eine Online-Bewerbung möglich?
+
+Für Bewerbende mit einem deutschen Hochschulabschluss erfolgt die Bewerbung über [AlmaWeb](https://almaweb.uni-leipzig.de/).
+
+Für Bewerbende mit einem internationalen Hochschulabschluss erfolgt die Bewerbung über das [Portal Uni-Assist.](https://www.uni-assist.de/en/) Detaillierte Informationen und Hinweise zur Bewerbung finden Sie bei der [Stabsstelle Internationales](https://www.uni-leipzig.de/international/studieren-an-der-universitaet-leipzig/bewerbung-und-studienvorbereitung/masterstudium).
+
+## Ist es problematisch, wenn für die Bewerbung noch kein Zeugnis des ersten Hochschulabschlusses (zum Beispiel Bachelor-Zeugnis) vorliegt?
+
+Nein, fügen Sie Ihrer Bewerbung bitte eine aktuelle Notenliste bei. Den Nachweis über einen ersten berufsqualifizierenden Hochschulabschluss (in der Regel einen Bachelorabschluss) müssen Sie spätestens zu Beginn des Masterstudiums nachweisen, indem Sie Ihr Bachelorzeugnis bis zum 30.09. des Jahres beim Studierendensekretariat einreichen. Sofern Sie Ihren Bachelor bereits abgeschlossen und alle Leistungen erbracht haben, die Ausstellung des Bachelorzeugnisses aber noch bis nach dem 30.09. des Jahres andauert, nutzen Sie bitte das Formular [„Bestätigung über das Ablegen aller Prüfungsleistungen“.](https://www.uni-leipzig.de/fileadmin/ul/Dokumente/211122_Studsek_Best%C3%A4tigung-%C3%BCber-alle-Pr%C3%BCfungsleistungen_barrierefrei.pdf)
+
+Der Nachweis muss bis spätestens 30.09. des Jahres vorliegen. Das Zeugnis ist dann bis zum 15.02. des Folgejahres beim Studierendensekretariat einzureichen.
+
+## Gibt es die Möglichkeit, bisherige Studien- und Prüfungsleistungen anerkennen zu lassen?
+
+Ja, sofern diese Studien- und Prüfungsleistungen auf Masterniveau sind, ist eine Anerkennung denkbar. Weitere Informationen finden Sie dazu [hier.](https://www.wifa.uni-leipzig.de/studium/studienorganisation/anerkennung-von-leistungen)
+
+## Welche Voraussetzungen gibt es, damit ein Bachelorstudiengang als fachnah gilt?
+
+Grundkenntnisse in den Fächern Mikroökonomik, Makroökonomik, Statistik und Ökonometrie werden für das Studium empfohlen. Sollten Sie diese nachweisen können, ist dies für die Bewerbung von Vorteil, aber nicht zwingend notwendig. Fehlende Grundkenntnisse in einzelnen Fächern können – _mit einem höheren Arbeitsaufwand_– im Selbststudium nachgeholt werden. Weitere informationen hierzu finden Sie weiter unten im FAQ zu [Fragen rund um das Studium](https://www.wifa.uni-leipzig.de/studium/studienangebot/master-quantitative-economics-for-sustainability#c991497).
+
+### [Fragen rund um Auslandsaufenthalte](https://www.wifa.uni-leipzig.de/studium/studienangebot/master-quantitative-economics-for-sustainability\#collapse991665)
+
+## Besteht die Möglichkeit eines Auslandsaufenthalts?
+
+Ja. Studierende des M. Sc. Quantitative Economics for Sustainability (QuESt) können einen Auslandsaufenthalt über das Erasmus+-Programm der Wirtschaftswissenschaftlichen Fakultät absolvieren. Auch über das Utrecht Network und die Hochschulallianz Arqus der Stabsstelle Internationales lassen sich Auslandskooperationen in und außerhalb Europas finden. Die Fakultät selbst hat über 50 Partneruniversitäten in ganz Europa und auch weltweit finden sich viele interessante Möglichkeiten. Ein Auslandsaufenthalt über ein Semester kann unproblematisch ins Studium eingebracht werden. Darüber hinaus bestehen fakultätsspezifische Austauschmöglichkeiten mit der Keio University in Tokio und der Université Paris 1 Panthéon-Sorbonne in Paris. Für diese fakultätsspezifischen Programme stehen je vier Plätze zur Verfügung. Zusätzlich können Studierende Auslandsaufenthalte auch über die Stabsstelle Internationales der Universität Leipzig organisieren.
+
+Weiterführende Informationen:
+
+[Erasmus+ an der Wirtschaftswissenschaftlichen Fakultät](https://www.wifa.uni-leipzig.de/studium/internationales/auslandsaufenthalt "Erasmus+ an der Wirtschaftswissenschaftlichen Fakultät")
+
+[Keio University](https://www.wifa.uni-leipzig.de/studium/internationales/auslandsaufenthalt#c615528 "Keio University")
+
+[Stabsstelle Internationales, Studium weltweit](https://www.uni-leipzig.de/international/studium-und-praktikum-im-ausland/studium-im-ausland/vor-dem-aufenthalt/weltweit "Stabsstelle Internationales, Studium weltweit")
+
+[Stabsstelle Internationales, Utrecht Network und die Hochschulallianz Arqus](https://www.uni-leipzig.de/international/studium-und-praktikum-im-ausland/studium-im-ausland/vor-dem-aufenthalt/europa-erasmus "Stabsstelle Internationales, Utrecht Network und die Hochschulallianz Arqus")
+
+## Wie viele Plätze gibt es für Sorbonne und Keio?
+
+Aktuell stehen der Fakultät für die Keio University vier Plätze zur Verfügung. Jedoch ist zu beachten, dass es aktuell dort keine finanzielle Förderung durch Erasmus+ oder die Universität Leipzig gibt. Durch die Kooperation werden die Studiengebühren an der Keio University gedeckt, darüber hinaus gibt es kein Stipendium. Studierende, die sich für ein Auslandssemester (oder -jahr) in Japan entscheiden, müssen sich selbst um eine Finanzierung kümmern, zum Beispiel über Auslands-BAföG oder ein DAAD-Stipendium. Für die Université Paris 1 Panthéon-Sorbonne gibt es aktuell vier Plätze im regulären Austausch. Hier gibt es aktuell noch ein Erasmus+-Stipendium. Da sich Kapazitäten ändern können, sind die jeweils aktuellen Ausschreibungen und Bewerbungsinformationen maßgeblich.
+
+## Wie bewerbe ich mich für einen Auslandsaufenthalt?
+
+Die Bewerbung erfolgt über das Bewerbungsportal der Fakultät im Rahmen der regulären Bewerbungsrunde für Erasmus+-Auslandsaufenthalte. Dort geben die Studierenden ihre Präferenzen an und reichen die erforderlichen Unterlagen ein. Für einzelne Programme, insbesondere für Keio und für die Sorbonne, können zusätzliche Angaben oder Nachweise erforderlich sein. Auch werden die Plätze separat vergeben. Studierende können sich also mit einer Bewerbung sowohl für einen Aufenthalt an der Keio University oder der Sorbonne als auch für einen regulären Erasmus+-Auslandsaufenthalt bewerben.
+
+## Bis wann muss ich mich bewerben?
+
+Für die aktuelle Bewerbungsrunde endet die Bewerbungsfrist immer am 1. Dezember, zwei Semester vor der Ausreise. Wenn Studierende z. B. im Wintersemester 2027/28 ausreisen wollen, müssen sie sich bis zum 1. Dezember 2026 bewerben. Maßgeblich sind die jeweils aktuellen Fristen und Hinweise der Fakultät.
+
+## Welche Unterlagen werden für die Bewerbung benötigt?
+
+Einzureichen sind die im Bewerbungsportal geforderten Unterlagen. Je nach Programm können zusätzliche Nachweise wie ein Lebenslauf und Sprachzertifikate verlangt werden.
+
+## Welche Sprachvoraussetzungen gelten?
+
+Die sprachlichen Voraussetzungen richten sich nach der jeweiligen Partneruniversität. Aktuell wird sowohl für die Sorbonne als auch für die Keio University Englisch auf dem Niveau B2 verlangt. Unabhängig davon sollten die jeweils aktuellen Anforderungen der Partneruniversität vor der Bewerbung noch einmal geprüft werden.
+
+## Wie werden die Plätze vergeben?
+
+Die Platzvergabe erfolgt in einem strukturierten Auswahlverfahren. Dabei können unter anderem Studienleistungen, Fachsemester, methodische Vorkenntnisse und die Motivation berücksichtigt werden. Für einzelne Programme können zusätzliche programmspezifische Auswahlkriterien hinzukommen.
+
+## Wann erfahre ich, ob ich einen Platz erhalten habe?
+
+Die Rückmeldung zum Auswahlverfahren erfolgt in der Regel im Januar.
+
+## Wie kann ich die im Ausland absolvierten Module anrechnen lassen?
+
+Zuständig ist formal der Prüfungsausschuss, der die Aufgabe an die Leitung des Studienbüros delegiert hat. Ausführliche Informationen zum Anrechnungsverfahren finden sich [hier](https://www.wifa.uni-leipzig.de/studium/studienorganisation/anerkennung-von-leistungen#collapse397716 "Informationen zum Anrechnungsverfahren (Link öffnet in neuem Tab)").
+
+## An wen kann ich mich bei Fragen wenden?
+
+Bei allgemeinen Fragen zum Auslandsaufenthalt ist Dr. Maik Pradel (er/ihm) im Mentoring der Wirtschaftswissenschaftlichen Fakultät die zuständige Ansprechperson. Fragen zum Erasmus+-Programm, einschließlich der Keio University, beantwortet Prof. Weiß (er/ihm) als zuständiger Koordinator. Für Fragen zu weltweiten Auslandsaufenthalten stehen Ansprechpersonen in der Stabsstelle Internationales zur Verfügung. Die aktuellen Kontaktdaten finden sich auf der Auslandsseite der Fakultät.
+
+### [Fragen rund um das Studium](https://www.wifa.uni-leipzig.de/studium/studienangebot/master-quantitative-economics-for-sustainability\#collapse991673)
+
+## Ist es möglich, an der Fakultät das Masterstudium zu absolvieren und anschließend zu promovieren?
+
+Grundsätzlich ja, allerdings sind Masterstudium und Promotion voneinander getrennt. Der M. Sc. Quantitative Economics for Sustainability (QuESt) bietet andererseits bei sehr guten Studienleistungen beste Voraussetzungen für eine Promotion in diesem Fachgebiet an der Universität Leipzig.
+
+Um einen Platz im Masterprogramm der Fakultät kann man sich unter Einhaltung der Fristen und der Bewerbungsrichtlinien bewerben.
+
+Bei den Promotionsmöglichkeiten sieht es etwas anders aus. Promotionen werden bisher weitestgehend über Mitarbeitertätigkeiten oder Ähnliches durchgeführt, das heißt, in Verbindung mit einer Mitarbeiterstelle. Deshalb sind die Kapazitäten beschränkt. Eine Promotion ist z. B. über das [Central-German Doctoral Program Economics (CGDE)](https://cgde-home.de/) oder das [Graduiertenkolleg ECO-N](https://www.uni-leipzig.de/en/economics-of-connected-natural-commons) möglich. Promotionsmöglichkeiten müssen immer mit dem jeweiligen Fachvertreter geregelt werden. Weitere Informationen finden Sie [hier.](https://www.wifa.uni-leipzig.de/forschung-und-transfer/promotionen "hier")
+
+## Können Studierende anderer Fachrichtungen Module an der Wirtschaftswissenschaftlichen Fakultät im Wahlbereich belegen?
+
+Bitte beachten Sie hierzu die Studien- und Prüfungsordnung Ihres Studiengangs und die Informationen zur Einschreibung auf der Seite zur [Moduleinschreibung](https://www.wifa.uni-leipzig.de/studium/studienorganisation/moduleinschreibung "Zur Webseite zur Moduleinschreibung (Link öffnet in neuem Tab)") (es gibt auch semesterweise Aushänge zur Fächerkooperationsvereinbarung).
+
+## Welche Möglichkeiten habe ich, die Grundkenntnisse im Fach Mikroökonomik nachzuarbeiten?
+
+Selbststudium der Inhalte eines Lehrbuchs auf Bachelor-Niveau entsprechend dem folgenden, welches im B.Sc. Wirtschaftswissenschaften der Universität Leipzig verwendet wird und über die Bibliothek in elektronischer Form frei verfügbar ist:
+
+Varian, Hal R.. _Grundzüge der Mikroökonomik_, Berlin, Boston: De Gruyter Oldenbourg, 2016. [https://doi.org/10.1515/9783110478051](https://doi.org/10.1515/9783110478051)
+
+Essentiell sind insbesondere mathematische Grundkenntnisse der Analysis, für die der mathematische Anhang des obigen Lehrbuchs das absolute Minimum abbildet und vorausgesetzt wird. Hinzu kommen folgende mikroökonomische Grundkenntnisse: individuelle Nachfrage auf Gütermärkten als Lösung von Nutzenmaximierung unter Budgetrestriktion, sowie analog Angebot als Lösung von Profitmaximierung unter Technologierestriktion, und beides inklusive ökonomischer Interpretation der entsprechenden Optimalitätsbedingungen; Marktnachfrage und Marktangebot, und einfache Marktgleichgewichtsanalysen mittels komparativer Statik; Diskontierung; Erwartungsnutzen; statische Spiele, Strategien, Nash-Gleichgewicht und strategische Interpretation von Nash-Gleichgewicht.
+
+## Welche Möglichkeiten habe ich, die Grundkenntnisse im Fach Makroökonomik nachzuarbeiten?
+
+Die Bachelorvorlesung Makroökonomik findet im Wintersemester statt und kann gegebenenfalls mit Zustimmung des verantwortlichen Dozierenden besucht werden; ein Erwerb von Leistungspunkten ist hier jedoch nicht möglich. Im zweiten Semester können Sie dann die reguläre Masterveranstaltung besuchen. Bei weiteren Fragen können Sie sich auch direkt an die [Professur für Makroökonomik](https://www.wifa.uni-leipzig.de/institut-theoretische-vwl/professuren/makrooekonomik) wenden.
+
+Als Literatur für ein Selbststudium der Grundlagen der Makroökonomik empfehlen wir:
+
+_Burda, M. und C. Wyplosz (2009), Macroeconomics - A European Text, Oxford University Press: Oxford, 5. Auflage._
+
+## Welche Möglichkeiten habe ich, die Grundkenntnisse im Fach Statistik nachzuarbeiten?
+
+Die Bachelorvorlesung Statistik findet im Wintersemester statt und kann gegebenenfalls mit Zustimmung des verantwortlichen Dozierenden besucht werden; ein Erwerb von Leistungspunkten ist hier jedoch nicht möglich. Bitte beachten Sie, dass die Fächer Statistik und Ökonometrie im Master nur zusammen geprüft werden! Bei weiteren Fragen können Sie sich auch direkt an die [Professur für Statistik](https://www.wifa.uni-leipzig.de/institut-fuer-empirische-wirtschaftsforschung/statistik "Zur Webseite der Professur für Statistik") wenden.
+
+Als Literatur für ein Selbststudium der Grundlagen der Statistik empfehlen wir:
+
+_Fahrmeir, L., R. Künstler, I. Pigeot und G. Tutz (2009), Statistik - Der Weg zur Datenanalyse, Springer: Heidelberg, New York, 7. Auflage._
+
+## Welche Möglichkeiten habe ich, die Grundkenntnisse im Fach Ökonometrie nachzuarbeiten?
+
+Soweit entsprechende Vorkenntnisse fehlen, sollten diese vor Studienbeginn im Selbststudium nachgearbeitet werden.
+
+Wichtig sind insbesondere Kenntnisse in den Grundlagen der induktiven Statistik, einfachen und multiplen OLS-Regressionen, statistischen Tests sowie im Umgang mit typischen Regressionsoutputs. Darüber hinaus sollten Studierende ein grundlegendes Verständnis möglicher Annahmeverletzungen und deren Konsequenzen mitbringen. Grundkenntnisse weiterführender Verfahren, etwa Instrumentvariablen- und Probit-Modelle sowie der Zeitreihenanalyse, sind ebenfalls hilfreich.
+
+Wir empfehlen, thematisch und nach Möglichkeit mit mehreren Lehrbüchern zu arbeiten. Besonders zugängliche Einführungen bieten beispielsweise:
+
+- Hill, R. C., W. E. Griffiths und G. C. Lim, _Principles of Econometrics_, Wiley.
+
+[https://principlesofeconometrics.com/](https://principlesofeconometrics.com/)
+- Wooldridge, J. M., _Introductory Econometrics: A Modern Approach_, Cengage.
+
+[https://faculty.cengage.com/works/9780357900161](https://faculty.cengage.com/works/9780357900161)
+- Baum, C. F., _An Introduction to Modern Econometrics Using Stata_, Stata Press.
+
+[https://www.stata.com/bookstore/modern-econometrics-stata/](https://www.stata.com/bookstore/modern-econometrics-stata/)
+- Acock, A. C., _A Gentle Introduction to Stata_, Stata Press.
+
+[https://www.stata.com/bookstore/microeconometrics-stata/](https://www.stata.com/bookstore/microeconometrics-stata/)
+- Baum, C. F., _An Introduction to Time Series Analysis Using Stata_, Stata Press.
+
+[https://www.stata.com/bookstore/introduction-to-time-series-using-stata/](https://www.stata.com/bookstore/introduction-to-time-series-using-stata/)
+
+Darüber hinaus setzen wir voraus, dass Studierende mit statistischer Software und deren Outputs umgehen können. Kenntnisse mindestens einer Statistiksoftware, etwa Stata oder R, werden empfohlen.
+
+## Kann man sich während des Master-Studiums Urlaubssemester für Praktika oder Ähnliches nehmen?
+
+Ja, dies ist möglich. Während des Masterstudiums können bis zu zwei [Urlaubssemester](https://www.uni-leipzig.de/studium/im-studium/aenderung-und-wechsel/beurlaubung) genommen werden.
+
+## Weitere Informationen zum Studiengang
+
+- [Zum vollständigen Studiengangsprofil](https://www.uni-leipzig.de/studium/vor-dem-studium/studienangebot/studiengang/course/show/quantitative-economics-for-sustainability-m-sc)
+- [Zu den Studiendokumenten](https://www.wifa.uni-leipzig.de/studium/studienorganisation/studiendokumente)
+
+## Das könnte Sie auch interessieren
+
+Angezeigt wird Element 1 von 3
+
+### Überblick über unser Studienangebot
+
+[mehr erfahren](https://www.wifa.uni-leipzig.de/studium/studienangebot "Zum Studienangebot an der Wirtschaftswissenschaftlichen Fakultät")
+
+### Informationen zur Studienorganisation
+
+[mehr erfahren](https://www.wifa.uni-leipzig.de/studium/studienorganisation "Zur Studienorgansiation an der Wirtschaftswissenschaftlichen Fakultät")
+
+### Weiterführende Beratungsangebote
+
+[mehr erfahren](https://www.wifa.uni-leipzig.de/studium/beratung "Zur Studienberatung an der Wirtschaftswissenschaftlichen Fakultät")
+
+![Eye-Able Logo](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/eye-able_whitelabel-icon_2.svg)
+
+![Einstellungen zurücksetzten](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/eye-able-reset-top.svg)![Einstellungen öffnen](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/settings.png)
+
+Eye-Able Assistenzsoftware Logo![Eye-Able Assistenzsoftware Logo](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/eye-able_whitelabel-icon_2.svg)![](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/eye-able-active-check.svg)[Eye-Able® Assistent](https://eye-able.com/)
+
+![Eye-Able schließen und minimieren](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/eye-able-circle-x.svg)![Info-Fenster öffnen](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/eye-able-info.svg)
+
+![](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/Eye-Able-Main-Schnellmodus.svg)Sofortansicht![Speichern der Sofortansicht](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/Eye-Able-Main-Save.svg)
+
+![](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/Eye-Able-Main-Font-Size.svg)Schriftgröße![](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/eye-Able-chevron-down.svg)
+
+![Lupe Funktion](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/eye-able-lupe.svg)0
+
+![Schrifgröße verkleinern](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/eye-able-minus.svg)![Schriftgröße zurücksetzten](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/eye-able-main-zoom-reset.svg)![Schriftgröße vergrößern](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/eye-able-plus.svg)
+
+![](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/eyeable-right-arrow.svg) Mehr Einstellungen
+
+![](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/Eye-Able-Main-Kontrastmodus.svg)Kontrastmodus![](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/eye-able-reset-top.svg)
+
+![](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/eyeable-right-arrow.svg) Mehr Farben.
+
+![](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/Eye-Able-Main-Bluefilter.svg)Blaufilter aktivieren
+
+Intensität
+
+80%
+
+![Blaufilter reduzieren](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/bluefilter_minusRanger.svg)![Blaufilter verstärken](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/bluefilter_plusRanger.svg)
+
+![](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/Eye-Able-Main-Nightmode.svg)Nachtmodus
+
+![](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/Eye-Able-Main-Vorlesen.svg)Webseite vorlesen
+
+![](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/Eye-Able-Main-Keyboard.svg)Tab Navigation
+
+![](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/Eye-Able-Main-Farbschwaeche.svg)Farbschwäche
+
+Intensität
+
+80%
+
+![Farbfilter reduzieren](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/minusRanger.svg)![Farbfilter zurücksetzten](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/eye-able-main-zoom-reset.svg)![Farbfilter verstärken](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/plusRanger.svg)
+
+![](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/Eye-Able-Main-Image.svg)Bilder ausblenden
+
+![](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/Eye-Able-Main-BigCursor.svg)Mauszeiger vergrößern
+
+![](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/Eye-Able-Main-Animation.svg)Animationen stoppen
+
+![](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/Eye-Able-Main-More-Functions.svg)Mehr Funktionen
+
+![](https://www.wifa.uni-leipzig.de/_assets/89f4369f29e16b23ff4835f5790afe07/EyeAble/public/images/Eye-Able-Main-reset.svg)Alles zurücksetzen
+
+➜ Eye-Able für mich ausblenden
+
+Seite visuell anpassen!
+
+Steuerungshilfe:
